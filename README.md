@@ -1,4 +1,4 @@
-!(MONTECARLO-logo-white)
+![Monte Carlo Logo](MONTECARLO-logo.png)
 
 
 # MonteCarloFinance
